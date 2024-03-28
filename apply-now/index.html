@@ -25,6 +25,7 @@ img.emoji {
 	background: none !important;
 	padding: 0 !important;
 }
+
 </style>
 	<link rel='stylesheet' id='elementor-frontend-css' href='../wp-content/plugins/elementor/assets/css/frontend-lite.minafc7.css?ver=3.16.4' media='all' />
 <link rel='stylesheet' id='elementor-post-86-css' href='../wp-content/uploads/elementor/css/post-86c019.css?ver=1696186393' media='all' />
@@ -83,7 +84,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		<!-- OceanWP CSS -->
 <style type="text/css">
 /* Header CSS */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}
-</style></head>
+</style>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
 
 <body class="page-template page-template-elementor_header_footer page page-id-53 wp-embed-responsive oceanwp-theme dropdown-mobile default-breakpoint has-sidebar content-right-sidebar has-topbar has-breadcrumbs elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-53" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
@@ -152,26 +157,26 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 </div>
 <p><span class="wpcf7-form-control-wrap" data-name="txtname">
-	<input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name"  placeholder="Applicant Name"  type="text" name="txtname" /></span><br />
+	<input size="40" class="form-control" autocomplete="name"  placeholder="Applicant Name"  type="text" name="txtname" /></span><br />
 <span class="wpcf7-form-control-wrap" data-name="mobile">
-	<input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel"  placeholder="Contact Number"  type="tel" name="mobile" /></span><br />
+	<input size="40" class="form-control"  placeholder="Contact Number"  type="tel" name="mobile" /></span><br />
 <span class="wpcf7-form-control-wrap" data-name="email">
-	<input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email"  placeholder="Email Address"  type="email" name="email" /></span><br />
+	<input size="40" class="form-control" autocomplete="email"  placeholder="Email Address"  type="email" name="email" /></span><br />
 <span class="wpcf7-form-control-wrap" data-name="business">
-	<select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required"  name="business"><option value="Select Business">Select Business</option><option value="Retailer&#039;s">Retailer&#039;s</option><option value="Distributor&#039;s">Distributor&#039;s</option></select></span><br />
+	<select class="form-control"  name="business"><option value="Select Business">Select Business</option><option value="Retailer&#039;s">Retailer&#039;s</option><option value="Distributor&#039;s">Distributor&#039;s</option></select></span><br />
 <span class="wpcf7-form-control-wrap" data-name="shopava">
-	<select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required"  name="shopava"><option value="Shop Available">Shop Available</option><option value="Yes">Yes</option><option value="No">No</option></select></span><br />
+	<select class="form-control"  name="shopava"><option value="Shop Available">Shop Available</option><option value="Yes">Yes</option><option value="No">No</option></select></span><br />
 <span class="wpcf7-form-control-wrap" data-name="property">
-	<select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required"  name="property"><option value="Property Type">Property Type</option><option value="Owned">Owned</option><option value="Rented">Rented</option><option value="Other">Other</option></select></span><br />
+	<select class="form-control"  name="property"><option value="Property Type">Property Type</option><option value="Owned">Owned</option><option value="Rented">Rented</option><option value="Other">Other</option></select></span><br />
 	<span class="wpcf7-form-control-wrap" data-name="invt">
-		<select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required"  name="invt"><option value="Investment">Investment</option><option value="Upto 5 Lakh">Upto 5 Lakh</option><option value="Upto 5 Lakh to 10 Lakh">Upto 5 Lakh to 10 Lakh</option><option value="Upto 10 Lakh to 15 Lakh">Upto 10 Lakh to 15 Lakh</option><option value="Upto 15 Lakh to 20 Lakh">Upto 15 Lakh to 20 Lakh</option><option value="Upto 20 Lakh to 30 Lakh">Upto 20 Lakh to 30 Lakh</option><option value="More than 30 Lakh">More than 30 Lakh</option></select></span><br />
+		<select class="form-control"  name="invt"><option value="Investment">Investment</option><option value="Upto 5 Lakh">Upto 5 Lakh</option><option value="Upto 5 Lakh to 10 Lakh">Upto 5 Lakh to 10 Lakh</option><option value="Upto 10 Lakh to 15 Lakh">Upto 10 Lakh to 15 Lakh</option><option value="Upto 15 Lakh to 20 Lakh">Upto 15 Lakh to 20 Lakh</option><option value="Upto 20 Lakh to 30 Lakh">Upto 20 Lakh to 30 Lakh</option><option value="More than 30 Lakh">More than 30 Lakh</option></select></span><br />
 <span class="wpcf7-form-control-wrap" data-name="city">
-	<input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"  placeholder="Area/City Name"  type="text" name="city" /></span><br />
+	<input size="40" class="form-control"  placeholder="Area/City Name"  type="text" name="city" /></span><br />
 <span class="wpcf7-form-control-wrap" data-name="pin">
-	<input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"  placeholder="PinCode"  type="text" name="pin" /></span><br />
+	<input size="40" class="form-control"  placeholder="PinCode"  type="text" name="pin" /></span><br />
 <span class="wpcf7-form-control-wrap" data-name="state">
-	<select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required"  name="state"><option value="Select State">Select State</option><option value="Andhra Pradesh">Andhra Pradesh</option><option value="Arunachal Pradesh">Arunachal Pradesh</option><option value="Assam">Assam</option><option value="Bihar">Bihar</option><option value="Chhattisgarh">Chhattisgarh</option><option value="Goa">Goa</option><option value="Gujarat">Gujarat</option><option value="Haryana">Haryana</option><option value="Himachal Pradesh">Himachal Pradesh</option><option value="Jharkhand">Jharkhand</option><option value="Karnataka">Karnataka</option><option value="Kerala">Kerala</option><option value="Madhya Pradesh">Madhya Pradesh</option><option value="Maharashtra">Maharashtra</option><option value="Manipur">Manipur</option><option value="Meghalaya">Meghalaya</option><option value="Mizoram">Mizoram</option><option value="Nagaland">Nagaland</option><option value="Odisha">Odisha</option><option value="Punjab">Punjab</option><option value="Rajasthan">Rajasthan</option><option value="Sikkim">Sikkim</option><option value="Tamil Nadu">Tamil Nadu</option><option value="Telangana">Telangana</option><option value="Tripura">Tripura</option><option value="Uttarakhand">Uttarakhand</option><option value="Uttar Pradesh">Uttar Pradesh</option><option value="West Bengal">West Bengal</option></select></span>
-	<input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"  placeholder="District"  type="text" name="dist" /></span><br />
+	<select class="form-control"  name="state"><option value="Select State">Select State</option><option value="Andhra Pradesh">Andhra Pradesh</option><option value="Arunachal Pradesh">Arunachal Pradesh</option><option value="Assam">Assam</option><option value="Bihar">Bihar</option><option value="Chhattisgarh">Chhattisgarh</option><option value="Goa">Goa</option><option value="Gujarat">Gujarat</option><option value="Haryana">Haryana</option><option value="Himachal Pradesh">Himachal Pradesh</option><option value="Jharkhand">Jharkhand</option><option value="Karnataka">Karnataka</option><option value="Kerala">Kerala</option><option value="Madhya Pradesh">Madhya Pradesh</option><option value="Maharashtra">Maharashtra</option><option value="Manipur">Manipur</option><option value="Meghalaya">Meghalaya</option><option value="Mizoram">Mizoram</option><option value="Nagaland">Nagaland</option><option value="Odisha">Odisha</option><option value="Punjab">Punjab</option><option value="Rajasthan">Rajasthan</option><option value="Sikkim">Sikkim</option><option value="Tamil Nadu">Tamil Nadu</option><option value="Telangana">Telangana</option><option value="Tripura">Tripura</option><option value="Uttarakhand">Uttarakhand</option><option value="Uttar Pradesh">Uttar Pradesh</option><option value="West Bengal">West Bengal</option></select></span>
+	<input size="40" class="form-control"  placeholder="District"  type="text" name="dist" /></span><br />
 <span class="wpcf7-form-control-wrap" data-name="state">
 </p>
 <p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit"  />
