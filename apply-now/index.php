@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html class="html" lang="en-GB">
+
+<!-- Mirrored from freshmartportal.com/apply-now/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 07 Oct 2023 16:18:18 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Apply Now &#8211; Apply for Fresh Mart Franchise</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="alternate" type="application/rss+xml" title="Apply for Fresh Mart Franchise &raquo; Feed" href="../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Apply for Fresh Mart Franchise &raquo; Comments Feed" href="../comments/feed/index.html" />
+
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='elementor-frontend-css' href='../wp-content/plugins/elementor/assets/css/frontend-lite.minafc7.css?ver=3.16.4' media='all' />
+<link rel='stylesheet' id='elementor-post-86-css' href='../wp-content/uploads/elementor/css/post-86c019.css?ver=1696186393' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/all.minafc7.css?ver=3.16.4' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.minafc7.css?ver=3.16.4' media='all' />
+<link rel='stylesheet' id='elementor-post-76-css' href='../wp-content/uploads/elementor/css/post-769c77.css?ver=1696183129' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='../wp-includes/css/dist/block-library/style.min9b30.css?ver=6.3.1' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='../wp-content/plugins/contact-form-7/includes/css/stylesf658.css?ver=5.8.1' media='all' />
+<link rel='stylesheet' id='htbbootstrap-css' href='../wp-content/plugins/ht-mega-for-elementor/assets/css/htbbootstrapa1ec.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='../wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min9e0b.css?ver=5.15.1' media='all' />
+<link rel='stylesheet' id='htmega-animation-css' href='../wp-content/plugins/ht-mega-for-elementor/assets/css/animationa1ec.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='htmega-keyframes-css' href='../wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-keyframesa1ec.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='text-editor-style-css' href='../wp-content/plugins/metform/public/assets/css/text-editor3b71.css?ver=3.5.0' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css' href='../wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min8d5a.css?ver=2.4.0' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css' href='../wp-content/themes/oceanwp/assets/css/style.min3b71.css?ver=3.5.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='../wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticonsab7d.css?ver=2.9.2' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min192d.css?ver=5.23.0' media='all' />
+<link rel='stylesheet' id='swiper-css' href='../wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min94a4.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css' href='../wp-content/uploads/elementor/css/post-64679.css?ver=1696154527' media='all' />
+<link rel='stylesheet' id='she-header-style-css' href='../wp-content/plugins/sticky-header-effects-for-elementor/assets/css/she-header-style544c.css?ver=1.6.9' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='../wp-content/uploads/elementor/css/global4cc1.css?ver=1696154529' media='all' />
+<link rel='stylesheet' id='elementor-post-53-css' href='../wp-content/uploads/elementor/css/post-533ace.css?ver=1696184774' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='../wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-stylesab7d.css?ver=2.9.2' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='../wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsiveab7d.css?ver=2.9.2' media='all' />
+<link rel='stylesheet' id='eael-general-css' href='../wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min29ad.css?ver=5.8.9' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.3.1' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script src='../wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.minafc7.js?ver=3.16.4' id='font-awesome-4-shim-js'></script>
+<script src='../wp-includes/js/jquery/jquery.min3088.js?ver=3.7.0' id='jquery-core-js'></script>
+<script src='../wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1' id='jquery-migrate-js'></script>
+
+<script src='../wp-content/plugins/country-state-city-auto-dropdown/assets/js/script9b30.js?ver=6.3.1' id='tc_csca-country-auto-script-js'></script>
+<script src='../wp-content/plugins/sticky-header-effects-for-elementor/assets/js/she-header544c.js?ver=1.6.9' id='she-header-js'></script>
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/53.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<meta name="generator" content="WordPress 6.3.1" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='../index5fb3.html?p=53' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed3605.json?url=https%3A%2F%2Ffreshmartportal.com%2Fapply-now%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed227f?url=https%3A%2F%2Ffreshmartportal.com%2Fapply-now%2F&amp;format=xml" />
+<meta name="generator" content="Elementor 3.16.4; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+		<style id="wp-custom-css">
+			form input[type=text],form input[type=password],form input[type=email],form input[type=url],form input[type=date],form input[type=month],form input[type=time],form input[type=datetime],form input[type=datetime-local],form input[type=week],form input[type=number],form input[type=search],form input[type=tel],form input[type=color],form select,form textarea{margin-top:12px}input[type=button],input[type=reset],input[type=submit],button[type=submit],.button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#ff5a00}.wpcf7 p{text-aline:center}		</style>
+		<!-- OceanWP CSS -->
+<style type="text/css">
+/* Header CSS */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}
+</style></head>
+
+<body class="page-template page-template-elementor_header_footer page page-id-53 wp-embed-responsive oceanwp-theme dropdown-mobile default-breakpoint has-sidebar content-right-sidebar has-topbar has-breadcrumbs elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-53" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+			<div class="ekit-template-content-markup ekit-template-content-header">		<div data-elementor-type="wp-post" data-elementor-id="86" class="elementor elementor-86">
+							<div class="elementor-element elementor-element-3ea181c e-flex e-con-boxed e-con e-parent" data-id="3ea181c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-396573c e-con-full e-flex e-con e-child" data-id="396573c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-1bf374b0 elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="1bf374b0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 20-09-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="../index.html">
+							<img width="300" height="150" src="../wp-content/uploads/2023/10/FRESH-MART-PORTAL-1.png" class="attachment-large size-large wp-image-88" alt="" />								</a>
+															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0ffc8e1 e-con-full e-flex e-con e-child" data-id="0ffc8e1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-659fa8a elementor-align-left elementor-widget elementor-widget-button" data-id="659fa8a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="index.html">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Apply Now</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		</div>
+			
+			<main id="main" class="site-main clr"  role="main">
+
+						<div data-elementor-type="wp-page" data-elementor-id="53" class="elementor elementor-53">
+							<div class="elementor-element elementor-element-c3d9d7e e-con-full e-flex e-con e-parent" data-id="c3d9d7e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+				<div class="elementor-element elementor-element-f0fbd7e elementor-widget elementor-widget-image" data-id="f0fbd7e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+	<img  src="./Mother-brand-1536x544.webp" width="1536" height="544"  class="attachment-1536x1536 size-1536x1536 wp-image-224" alt=""  sizes="(max-width: 1536px) 100vw, 1536px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2e1adf3 e-flex e-con-boxed e-con e-parent" data-id="2e1adf3" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c865e9b elementor-widget elementor-widget-heading" data-id="c865e9b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 20-09-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Apply For Supermarket Franchised</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8d29c69 elementor-widget elementor-widget-shortcode" data-id="8d29c69" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode">
+<div class="wpcf7 no-js" id="wpcf7-f193-p53-o1" lang="en-GB" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="https://moneyresources.co.in/kusu/insert.php" method="post" class="wpcf7-form init">
+
+</div>
+<p><span class="wpcf7-form-control-wrap" data-name="txtname">
+	<input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name"  placeholder="Applicant Name"  type="text" name="txtname" /></span><br />
+<span class="wpcf7-form-control-wrap" data-name="mobile">
+	<input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel"  placeholder="Contact Number"  type="tel" name="mobile" /></span><br />
+<span class="wpcf7-form-control-wrap" data-name="email">
+	<input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email"  placeholder="Email Address"  type="email" name="email" /></span><br />
+<span class="wpcf7-form-control-wrap" data-name="business">
+	<select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required"  name="business"><option value="Select Business">Select Business</option><option value="Retailer&#039;s">Retailer&#039;s</option><option value="Distributor&#039;s">Distributor&#039;s</option></select></span><br />
+<span class="wpcf7-form-control-wrap" data-name="shopava">
+	<select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required"  name="shopava"><option value="Shop Available">Shop Available</option><option value="Yes">Yes</option><option value="No">No</option></select></span><br />
+<span class="wpcf7-form-control-wrap" data-name="property">
+	<select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required"  name="property"><option value="Property Type">Property Type</option><option value="Owned">Owned</option><option value="Rented">Rented</option><option value="Other">Other</option></select></span><br />
+	<span class="wpcf7-form-control-wrap" data-name="invt">
+		<select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required"  name="invt"><option value="Investment">Investment</option><option value="Upto 5 Lakh">Upto 5 Lakh</option><option value="Upto 5 Lakh to 10 Lakh">Upto 5 Lakh to 10 Lakh</option><option value="Upto 10 Lakh to 15 Lakh">Upto 10 Lakh to 15 Lakh</option><option value="Upto 15 Lakh to 20 Lakh">Upto 15 Lakh to 20 Lakh</option><option value="Upto 20 Lakh to 30 Lakh">Upto 20 Lakh to 30 Lakh</option><option value="More than 30 Lakh">More than 30 Lakh</option></select></span><br />
+<span class="wpcf7-form-control-wrap" data-name="city">
+	<input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"  placeholder="Area/City Name"  type="text" name="city" /></span><br />
+<span class="wpcf7-form-control-wrap" data-name="pin">
+	<input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"  placeholder="PinCode"  type="text" name="pin" /></span><br />
+<span class="wpcf7-form-control-wrap" data-name="state">
+	<select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required"  name="state"><option value="Select State">Select State</option><option value="Andhra Pradesh">Andhra Pradesh</option><option value="Arunachal Pradesh">Arunachal Pradesh</option><option value="Assam">Assam</option><option value="Bihar">Bihar</option><option value="Chhattisgarh">Chhattisgarh</option><option value="Goa">Goa</option><option value="Gujarat">Gujarat</option><option value="Haryana">Haryana</option><option value="Himachal Pradesh">Himachal Pradesh</option><option value="Jharkhand">Jharkhand</option><option value="Karnataka">Karnataka</option><option value="Kerala">Kerala</option><option value="Madhya Pradesh">Madhya Pradesh</option><option value="Maharashtra">Maharashtra</option><option value="Manipur">Manipur</option><option value="Meghalaya">Meghalaya</option><option value="Mizoram">Mizoram</option><option value="Nagaland">Nagaland</option><option value="Odisha">Odisha</option><option value="Punjab">Punjab</option><option value="Rajasthan">Rajasthan</option><option value="Sikkim">Sikkim</option><option value="Tamil Nadu">Tamil Nadu</option><option value="Telangana">Telangana</option><option value="Tripura">Tripura</option><option value="Uttarakhand">Uttarakhand</option><option value="Uttar Pradesh">Uttar Pradesh</option><option value="West Bengal">West Bengal</option></select></span>
+	<input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"  placeholder="District"  type="text" name="dist" /></span><br />
+<span class="wpcf7-form-control-wrap" data-name="state">
+</p>
+<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit"  />
+</p></div>
+</form>
+</div>
+</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		
+	</main><!-- #main -->
+
+	
+	
+	
+		<div class="ekit-template-content-markup ekit-template-content-footer">		<div data-elementor-type="wp-post" data-elementor-id="76" class="elementor elementor-76">
+							<div class="elementor-element elementor-element-29dacf5c e-flex e-con-boxed e-con e-parent" data-id="29dacf5c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-26df64dc e-con-full e-flex e-con e-child" data-id="26df64dc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				</div>
+		<div class="elementor-element elementor-element-a81a554 e-con-full e-flex e-con e-child" data-id="a81a554" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-7b1c0643 elementor-widget elementor-widget-text-editor" data-id="7b1c0643" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 20-09-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p class="elementor-heading-title elementor-size-default">2023© All rights reserved</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5d141ceb e-con-full e-flex e-con e-child" data-id="5d141ceb" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				</div>
+					</div>
+				</div>
+							</div>
+		</div>
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+
+
+<script src='../wp-content/plugins/ht-mega-for-elementor/assets/js/popper.mina1ec.js?ver=2.3.0' id='htmega-popper-js'></script>
+<script src='../wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrapa1ec.js?ver=2.3.0' id='htbbootstrap-js'></script>
+<script src='../wp-content/plugins/ht-mega-for-elementor/assets/js/waypointsa1ec.js?ver=2.3.0' id='waypoints-js'></script>
+<script src='../wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
+
+<script src='../wp-content/themes/oceanwp/assets/js/theme.min3b71.js?ver=3.5.0' id='oceanwp-main-js'></script>
+<script src='../wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min3b71.js?ver=3.5.0' id='oceanwp-drop-down-mobile-menu-js'></script>
+<script src='../wp-content/themes/oceanwp/assets/js/drop-down-search.min3b71.js?ver=3.5.0' id='oceanwp-drop-down-search-js'></script>
+<script src='../wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min3b71.js?ver=3.5.0' id='ow-magnific-popup-js'></script>
+<script src='../wp-content/themes/oceanwp/assets/js/ow-lightbox.min3b71.js?ver=3.5.0' id='oceanwp-lightbox-js'></script>
+<script src='../wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min3b71.js?ver=3.5.0' id='ow-flickity-js'></script>
+<script src='../wp-content/themes/oceanwp/assets/js/ow-slider.min3b71.js?ver=3.5.0' id='oceanwp-slider-js'></script>
+<script src='../wp-content/themes/oceanwp/assets/js/scroll-effect.min3b71.js?ver=3.5.0' id='oceanwp-scroll-effect-js'></script>
+<script src='../wp-content/themes/oceanwp/assets/js/scroll-top.min3b71.js?ver=3.5.0' id='oceanwp-scroll-top-js'></script>
+<script src='../wp-content/themes/oceanwp/assets/js/select.min3b71.js?ver=3.5.0' id='oceanwp-select-js'></script>
+
+<script src='../wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scriptsab7d.js?ver=2.9.2' id='ekit-widget-scripts-js'></script>
+
+<script src='../wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min29ad.js?ver=5.8.9' id='eael-general-js'></script>
+<script src='../wp-content/plugins/elementor/assets/js/webpack.runtime.minafc7.js?ver=3.16.4' id='elementor-webpack-runtime-js'></script>
+<script src='../wp-content/plugins/elementor/assets/js/frontend-modules.minafc7.js?ver=3.16.4' id='elementor-frontend-modules-js'></script>
+<script src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+
+<script src='../wp-content/plugins/elementor/assets/js/frontend.minafc7.js?ver=3.16.4' id='elementor-frontend-js'></script>
+<script src='../wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.minab7d.js?ver=2.9.2' id='animate-circle-js'></script>
+
+<script src='../wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementorab7d.js?ver=2.9.2' id='elementskit-elementor-js'></script>
+</body>
+
+<!-- Mirrored from freshmartportal.com/apply-now/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 07 Oct 2023 16:18:20 GMT -->
+</html>
